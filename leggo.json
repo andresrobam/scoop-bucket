@@ -1,0 +1,28 @@
+{
+    "version": "0.5.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/andresrobam/leggo/releases/download/v0.5.3/leggo_Windows_i386.zip",
+            "bin": [
+                "leggo.exe"
+            ],
+            "hash": "7f7eceaadd0fa19f20fcc89ecc87527797aff9ab169922e54c3e7de890a967a7"
+        },
+        "64bit": {
+            "url": "https://github.com/andresrobam/leggo/releases/download/v0.5.3/leggo_Windows_x86_64.zip",
+            "bin": [
+                "leggo.exe"
+            ],
+            "hash": "57e12960a0d1cf0cf7d87cea27d2000f52cd509c81e41899016e4499b666355f"
+        },
+        "arm64": {
+            "url": "https://github.com/andresrobam/leggo/releases/download/v0.5.3/leggo_Windows_arm64.zip",
+            "bin": [
+                "leggo.exe"
+            ],
+            "hash": "4335cccaf56e4b315781389e5f9abce32c6a97c074562d67e213a5300e76f2b4"
+        }
+    },
+    "homepage": "https://github.com/andresrobam/leggo",
+    "description": "A command line background process orchestrator"
+}
