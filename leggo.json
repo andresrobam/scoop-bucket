@@ -1,26 +1,26 @@
 {
-    "version": "0.6.2",
+    "version": "0.7.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/andresrobam/leggo/releases/download/v0.6.2/leggo_Windows_i386.zip",
+            "url": "https://github.com/andresrobam/leggo/releases/download/v0.7.0/leggo_Windows_i386.zip",
             "bin": [
                 "leggo.exe"
             ],
-            "hash": "7586679bc20a622a5fcba75338b676b6a6f17476972d8dbb2f15c46515fc6203"
+            "hash": "a2dc2a8ae4871dd58b9214a07c00fae62494ea09d9f4b2fc5dbe5ebeacceb85b"
         },
         "64bit": {
-            "url": "https://github.com/andresrobam/leggo/releases/download/v0.6.2/leggo_Windows_x86_64.zip",
+            "url": "https://github.com/andresrobam/leggo/releases/download/v0.7.0/leggo_Windows_x86_64.zip",
             "bin": [
                 "leggo.exe"
             ],
-            "hash": "9c3afcd720b24fe27bf2d347259bf8cc5601b74dd88ebfc3916acadb83e3fb8f"
+            "hash": "05694475f8069a999f409906709d96b577d9c06b60917cb0fb9aa160babb9ba8"
         },
         "arm64": {
-            "url": "https://github.com/andresrobam/leggo/releases/download/v0.6.2/leggo_Windows_arm64.zip",
+            "url": "https://github.com/andresrobam/leggo/releases/download/v0.7.0/leggo_Windows_arm64.zip",
             "bin": [
                 "leggo.exe"
             ],
-            "hash": "dba171a540c2d386cbfa8b0990e6d3b90cfdfe3de5b08e1c17b025f928d1f649"
+            "hash": "415c99dc80c65654b5ed5e4f439d8660572e2a4243c97c0cf6252f766e617198"
         }
     },
     "homepage": "https://github.com/andresrobam/leggo",
